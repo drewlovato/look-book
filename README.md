@@ -36,7 +36,7 @@ SO THAT I can keep a list of books to purchase
 - User
   - Search any book of your choosing
   - Based on your search all realevant books will load on your page
-  - View an about me page to get more aquainted who I am.
+  - Sign Up or Login with you credential to view your profile and saved books
 
 ## Acceptance Criteria
 
@@ -78,12 +78,6 @@ THEN I am logged out of the site and presented with a menu with the options Sear
 
 ### Static Screenshots
 
-TBD
-
-### Video Preview
-
-TBD
-
 ## Technologies
 
 - HTML
@@ -91,7 +85,6 @@ TBD
 - JavaScript
 - MongoDb
 - Apollo
--
 - [GitHub](https://www.github.com)
 - [Node.js](https://nodejs.org/)
 - [Express.js](https://expressjs.com/)
@@ -109,4 +102,4 @@ This application is covered under the [MIT License](https://opensource.org/licen
 
 ## Resources
 
-- GitHub Repo: [https://github.com/dpk5e7/evRoute](https://github.com/dpk5e7/evRoute)
+- GitHub Repo: [https://github.com/drewlovato/look-book](https://github.com/drewlovato/look-book)
